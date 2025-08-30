@@ -19,7 +19,7 @@ I am a graduate builder, research assistant, and data analyst interested in data
 - 💡 Fun fact: I'm a pioneer graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning Python for Data Analytics and Data Science at ALX Africa [Data Science](https://www.alxafrica.com/programme/data-science/).
 - 😊 I’m seeking help with graduate opportunities in civil engineering or construction (MSc/PhD), open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests:  Data Analysis/Science (Intern or Junior level), Software Engineer or WordPress Plugin Development.
+- 💼 Job interests:  Data Analytics/Science (Intern or Junior level), Software Engineer or WordPress Plugin Development.
 - 📫 You can [view my resume](#) and contact me by emailing ayotoku@gmail.com.
 
 ---
